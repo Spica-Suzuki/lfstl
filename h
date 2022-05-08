@@ -1,1 +1,0 @@
-Linux from scratch turkce
